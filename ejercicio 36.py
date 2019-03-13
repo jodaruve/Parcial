@@ -1,5 +1,5 @@
 ## 36
-print("Este programa le ayudara a determinar si la suma del primer y segundo numero ingresado es mayor o menor que el tercero")
+print("Este programa calculara si la suma del primer y segundo numero ingresado es mayor o menor que el tercero")
 n1=int(input("Por favor ingrese el primer numero "))
 n2=int(input("Por favor ingrese el segundo numero "))
 n3=int(input("Por favor ingrese el tercer numero "))

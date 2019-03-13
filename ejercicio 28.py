@@ -1,5 +1,6 @@
 ## 28
-num=float(input("Por favor ingrese un numero para saber si es positivo o negativo"))
+print("Este programa calculara si el numero ingresado es positivo o negativo")
+num=float(input("Por favor ingrese un numero "))
 if num == 0:
 	print("El numero", num, "no es ni negativo ni positivo")
 elif num > 0:

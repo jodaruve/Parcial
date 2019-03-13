@@ -1,3 +1,4 @@
 ## 25
-num=str(input("Por favor ungrese un numero de cuatro digitos "))
+print("Este programa reordenara los digitos de forma inversa")
+num=str(input("Por favor ingrese un numero "))
 print(num[::-1])

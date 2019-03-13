@@ -4,8 +4,8 @@ n1=int(input("Por favor ingrese un numero "))
 n2=int(input("Por favor ingrese otro número "))
 n3=int(input("Por favor ingrese otro número "))
 if n1>n2 and n2>n3:
-  print("Los números", n1,n2,n3, "están disminuyendo")
+  print("Los números están disminuyendo")
 elif n1<n2 and n2<n3:
-  print("Los números", n1,n2,n3, "están incrementando")
+  print("Los números están incrementando")
 else:
-  print("Los números", n1,n2,n3, "ni incrementan ni disminuyen")
+  print("Los números ni incrementan ni disminuyen")

@@ -1,4 +1,5 @@
 ## 40
+print("Este programa mostrara si el usuario y contrasegna son correcctos")
 usuario='jodaruve'
 contrasegna='qwerty'
 usuario1=input("Por favor ingrese su usuario ")

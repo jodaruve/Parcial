@@ -12,5 +12,5 @@ while intentos<3:
       print("")
       usuario=input("-Por favor ingrese el nombre de usuario ")
       contra=input("-Por favor ingrese la contrasegna ")
-print("Usuario y/o contrasegna incorrectos. por favor inténtelo nuevamente")
+print("Usuario y/o contrasegna incorrectos.")
 print("-Por favor inténtelo nuevamente otro día")

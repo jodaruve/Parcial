@@ -7,7 +7,7 @@ ma_peso=0
 peso=0
 pesos=0
 c_bultos=0
-p_bulto=float(input("Por favor ingrese el peso del bulto en Kgb "))
+p_bulto=float(input("Por favor ingrese el peso del bulto en Kg "))
 if p_bulto>500:
   print("El bulto es muy pesado y no podremos transportarlo")
 while peso<18000:
@@ -29,7 +29,7 @@ while peso<18000:
     precio=p_bulto*2500
     peso=peso+p_bulto
     pesos=pesos+precio
-  p_bulto=float(input("Por favor ingrese el peso del bulto en Kgb "))
+  p_bulto=float(input("Por favor ingrese el peso del bulto en Kg "))
 dolares=pesos*3165
 prom=peso/c_bultos
 print("El total de bultos es de:", c_bultos)

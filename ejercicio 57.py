@@ -1,4 +1,4 @@
-## 58
+## 57
 print("Este programa le mostrara los 10 primeros números naturales impares")
 n=-1
 for i in range (0,10):

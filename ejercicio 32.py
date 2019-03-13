@@ -1,5 +1,5 @@
 ## 32
-print("El siguiente programa le ayudará a calcular el promedio de sus notas. Por favor ingrese cada una de las notas sin puntos nu comas. Gracias")
+print("El siguiente programa calculara el promedio de las notas. Por favor ingrese cada una de las notas sin puntos ni comas. Gracias")
 n1=int(input("Por favor ingrese la primera nota "))
 n2=int(input("Por favor ingrese la segunda nota "))
 n3=int(input("Por favor ingrese la tercera nota "))

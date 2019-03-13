@@ -1,5 +1,5 @@
 ## 34
-print("Este programa le ayudara a calcular el numero mayor")
+print("Este programa calculara el numero mayor")
 n1=int(input("Por favor ingrese eun numero "))
 n2=int(input("Por favor ingrese un numero "))
 n3=int(input("Por favor ingrese un numero "))

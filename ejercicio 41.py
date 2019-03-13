@@ -1,5 +1,5 @@
 ## 41
- print("Este programa le mostrara el nombre del numero ingresado de 0 a 10")
+print("Este programa le mostrara el nombre del numero ingresado de 0 a 10")
 num=int(input("Por favor ingrese un numero "))
 if num<0:
   print("Por favor ingrese un numero entre 0 y 10")
@@ -25,5 +25,5 @@ elif num==8:
   print("ocho")
 elif num==9:
   print("nueve")
-elif num==10:
+else:
   print("diez")

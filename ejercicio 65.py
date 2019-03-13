@@ -8,7 +8,7 @@ print("Este programa le mostrara el promedio de los números pares y impares ingr
 cant=int(input("Por favor digite la cantidad de números que va a ingresar "))
 while i<cant:
   i=i+1
-  num=float(input("Por favor ingrese el numero"))
+  num=float(input("Por favor ingrese el numero "))
   if num%2==0:
     c_p=c_p+1
     sum_p=sum_p+num

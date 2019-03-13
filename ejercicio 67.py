@@ -9,5 +9,5 @@ while num!=-00:
   else:
     menores=menores+1
   num=float(input("Por favor ingrese un numero "))
-print("La cantidad de numeros mayoes a 100 es:", mayores)
-print("La cantidad de numeroos menores a 100 es:", menores)
+print("La cantidad de numeros mayores a 100 es:", mayores)
+print("La cantidad de numeros menores a 100 es:", menores)

@@ -1,6 +1,6 @@
 ## 62
 sum=0
-print("Este programa mostrara los números naturales en el rango que usted desee")
+print("Este programa mostrara los números naturales en el rango que usted desee y al final mostrara su suma")
 n=int(input("Por favor ingrese desde donde desea que empiece el conteo "))
 m=int(input("Por favor ingrese hasta donde desea que llegue el conteo "))
 if m<n:

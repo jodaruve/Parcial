@@ -1,5 +1,5 @@
 ## 46
-print("Este programa mostrara si almenmos dos de los números ingresados son iguales")
+print("Este programa calculara si almenos dos de los números ingresados son iguales")
 n1=float(input("Por favor ingrese un numero "))
 n2=float(input("Por favor ingrese otro número "))
 n3=float(input("por favor ingrese otro número "))
